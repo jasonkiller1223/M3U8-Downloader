@@ -1596,4 +1596,4 @@ ipcMain.on('start-merge-ts', async function (event, task) {
             status: '未检测到FFMPEG,不进行合并操作。'
         });
     }
-});
+});https://n22482a.streamvid.net/hls/,n5ajq3jb3nmne42h4wiqjurd36q3lzcube7igmsdgihouol4egb5n7t2stva,.urlset/master.m3u8
